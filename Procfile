@@ -1,1 +1,1 @@
-#join Rk_botz
+worker: python3 RKbotz.py

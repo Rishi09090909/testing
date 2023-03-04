@@ -1,1 +1,1 @@
-worker: python3 RKbotz.py
+worker: python RKbotz.py
